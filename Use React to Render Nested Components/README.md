@@ -4,9 +4,8 @@ Component composition is one of React's powerful features. When you work with Re
 
 There are two functional components defined in the code editor, called TypesOfFruit and Fruits. Take the TypesOfFruit component and compose it, or nest it, within the Fruits component. Then take the Fruits component and nest it within the TypesOfFood component. The result should be a child component, nested within a parent component, which is nested within a parent component of its own!
 
-Get Help
 Tests
-Waiting:The TypesOfFood component should return a single div element.
-Waiting:The TypesOfFood component should return the Fruits component.
-Waiting:The Fruits component should return the TypesOfFruit component.
-Waiting:The TypesOfFruit component should return the h2 and ul elements.
+The TypesOfFood component should return a single div element.
+The TypesOfFood component should return the Fruits component.
+The Fruits component should return the TypesOfFruit component.
+The TypesOfFruit component should return the h2 and ul elements.
