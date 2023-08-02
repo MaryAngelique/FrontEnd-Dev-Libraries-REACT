@@ -20,7 +20,7 @@ class MyToDoList extends React.Component {
             this.setState({
             toDoList: itemsArray
         });
-    }
+    } 
     handleChange(e) {
         this.setState({
             userInput: e.target.value
