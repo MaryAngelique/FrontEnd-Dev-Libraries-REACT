@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FrontEnd-Dev-Libraries-jQuery
+    <title>FrontEnd-Dev-Libraries-REACT
     </title>
 </head>
 <body>
