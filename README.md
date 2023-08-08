@@ -35,6 +35,38 @@ In this course, you'll learn how to create different React components, manage da
             <li>Target a Specific Child of an Element Using jQuery</li>
             <li>Target Even Elements Using jQuery</li>
             <li>Use jQuery to Modify the Entire Page</li>
+            <li>Learn How Script Tags and Document Ready Work</li>
+            <li>Target HTML Elements with Selectors Using jQuery</li>
+            <li>Target Elements by Class Using jQuery</li>
+            <li>Target Elements by id Using jQuery</li>
+            <li>Delete Your jQuery Functions</li>
+            <li>Delete Your jQuery Functions</li>
+            <li>Target the Same Element with Multiple jQuery Selectors</li>
+            <li>Remove Classes from an Element with jQuery</li>
+            <li>Change the CSS of an Element Using jQuery</li>
+            <li>Disable an Element Using jQuery</li>
+            <li>Change Text Inside an Element Using jQuery</li>
+            <li>Remove an Element Using jQuery</li>
+            <li>Use appendTo to Move Elements with jQuery</li>
+            <li>Clone an Element Using jQuery</li>
+            <li>Target the Parent of an Element Using jQuery</li>
+            <li>Target the Children of an Element Using jQuery</li>
+            <li>Target a Specific Child of an Element Using jQuery</li>
+            <li>Target Even Elements Using jQuery</li>
+            <li>Use jQuery to Modify the Entire Page</li>
+            <li>Target the Same Element with Multiple jQuery Selectors</li>
+            <li>Remove Classes from an Element with jQuery</li>
+            <li>Change the CSS of an Element Using jQuery</li>
+            <li>Disable an Element Using jQuery</li>
+            <li>Change Text Inside an Element Using jQuery</li>
+            <li>Remove an Element Using jQuery</li>
+            <li>Use appendTo to Move Elements with jQuery</li>
+            <li>Clone an Element Using jQuery</li>
+            <li>Target the Parent of an Element Using jQuery</li>
+            <li>Target the Children of an Element Using jQuery</li>
+            <li>Target a Specific Child of an Element Using jQuery</li>
+            <li>Target Even Elements Using jQuery</li>
+            <li>Use jQuery to Modify the Entire Page</li>
           </ul>
     </div>
 </body>
