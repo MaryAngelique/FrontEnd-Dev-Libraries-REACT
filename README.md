@@ -42,31 +42,27 @@ In this course, you'll learn how to create different React components, manage da
             <li>Set State with this.setState</li>
             <li>Bind 'this' to a Class Method</li>
             <li>Use State to Toggle an Element</li>
-            <li>Remove Classes from an Element with jQuery</li>
-            <li>Change the CSS of an Element Using jQuery</li>
-            <li>Disable an Element Using jQuery</li>
-            <li>Change Text Inside an Element Using jQuery</li>
-            <li>Remove an Element Using jQuery</li>
-            <li>Use appendTo to Move Elements with jQuery</li>
-            <li>Clone an Element Using jQuery</li>
-            <li>Target the Parent of an Element Using jQuery</li>
-            <li>Target the Children of an Element Using jQuery</li>
-            <li>Target a Specific Child of an Element Using jQuery</li>
-            <li>Target Even Elements Using jQuery</li>
-            <li>Use jQuery to Modify the Entire Page</li>
-            <li>Target the Same Element with Multiple jQuery Selectors</li>
-            <li>Remove Classes from an Element with jQuery</li>
-            <li>Change the CSS of an Element Using jQuery</li>
-            <li>Disable an Element Using jQuery</li>
-            <li>Change Text Inside an Element Using jQuery</li>
-            <li>Remove an Element Using jQuery</li>
-            <li>Use appendTo to Move Elements with jQuery</li>
-            <li>Clone an Element Using jQuery</li>
-            <li>Target the Parent of an Element Using jQuery</li>
-            <li>Target the Children of an Element Using jQuery</li>
-            <li>Target a Specific Child of an Element Using jQuery</li>
-            <li>Target Even Elements Using jQuery</li>
-            <li>Use jQuery to Modify the Entire Page</li>
+            <li>Write a Simple Counter</li>
+            <li>Create a Controlled Input</li>
+            <li>Create a Controlled Form</li>
+            <li>Pass State as Props to Child Components</li>
+            <li>Pass a Callback as Props</li>
+            <li>Use the Lifecycle Method componentWillMount</li>
+            <li>Use the Lifecycle Method componentDidMount</li>
+            <li>Add Event Listeners</li>
+            <li>Optimize Re-Renders with shouldComponentUpdate</li>
+            <li>Introducing Inline Styles</li>
+            <li>Add Inline Styles in React</li>
+            <li>Use Advanced JavaScript in React Render Method</li>
+            <li>Render with an If-Else Condition</li>
+            <li>Use && for a More Concise Conditional</li>
+            <li>Use a Ternary Expression for Conditional Rendering</li>
+            <li>Render Conditionally from Props</li>
+            <li>Change Inline CSS Conditionally Based on Component State</li>
+            <li>Use Array.map() to Dynamically Render Elements</li>
+            <li>Give Sibling Elements a Unique Key Attribute</li>
+            <li>Use Array.filter() to Dynamically Filter an Array</li>
+            <li>Render React on the Server with renderToString</li>
           </ul>
     </div>
 </body>
